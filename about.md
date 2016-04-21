@@ -48,6 +48,7 @@ Seznam newebových zdrojů
 Vizuálna inšpirácia
 <iframe frameborder="0" scrolling="no" src="http://www.dyatlov-pass-incident.com/images/bg-v3.jpg" width="500" height="500"> </iframe>
 
+<iframe frameborder="0" scrolling="no" src="http://realunexplainedmysteries.com/wp-content/uploads/2015/09/Dyatlov-pass_cover.jpg" width="500" height="500"> </iframe>
 
 ### More Information
 
