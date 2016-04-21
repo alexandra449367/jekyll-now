@@ -45,6 +45,9 @@ Seznam newebových zdrojů
 
 <iframe frameborder="0" src="https://qph.is.quoracdn.net/main-qimg-b87b5d728b15fc0f4ee15c5ef3056105?convert_to_webp=true" width="500" height="500"> </iframe>
 
+Vizuálna inšpirácia
+<iframe frameborder="0" src="http://www.dyatlov-pass-incident.com/images/bg-v3.jpg" width="500" height="500"> </iframe>
+
 
 ### More Information
 
