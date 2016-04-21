@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OOOOO
+title: Dyatlova expedice
 permalink: /about/
 ---
 
@@ -11,6 +11,18 @@ Takže hurá čítať náš web, kde uvedieme príbeh expedície, ako to všetko
 
 [idnes]: <http://zpravy.idnes.cz/v-rusku-zemrel-muz-jenz-jediny-prezil-tajemnou-vypravu-na-horu-mrtvych-1ao-/zahranicni.aspx?c=A130430_144028_zahranicni_ipl]>
 
+### Obsah webu
+1. Úvod
+2. Informácie o cieľoch výpravy
+3. členovia výpravy
+4. Prvé dni
+5. Záchranna akcia
+6. Prvé stopy
+7. Nájdené dôkazy
+8. Zhrnutie dôkazov
+9. Konšpiračné závery
+10. Vlastná konšpiračná teória
+
 Seznam webových zdrojů
 
 Seznam newebových zdrojů
@@ -20,13 +32,3 @@ Seznam newebových zdrojů
 3. DEVILS PASS[DVD], Renny Harlin. USA / Velká Británie / Rusko, 2013
 4. McCLOSKEY Keith, Mountain Of The Dead, The History Press Ltd, 2013, 192s, ISBN: 9780752491486
 5. OSS Svetlana, Don't Go There: The Mystery of Dyatlov Pass, CreateSpace Independent Publishing Platform, 2015. 318s. ISBN 151775559X
- 
-
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself. - I don't want to. This place is useless. 
-
-### Contact me
-
-It is better to not contact me. Just for your safety. Safety first. 
