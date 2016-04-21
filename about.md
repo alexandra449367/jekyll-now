@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OOOOO
+title: Dyatlova expedice
 permalink: /about/
 ---
 
