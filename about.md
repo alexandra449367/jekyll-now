@@ -11,6 +11,9 @@ Takže hurá čítať náš web, kde uvedieme príbeh expedície, ako to všetko
 
 [idnes]: <http://zpravy.idnes.cz/v-rusku-zemrel-muz-jenz-jediny-prezil-tajemnou-vypravu-na-horu-mrtvych-1ao-/zahranicni.aspx?c=A130430_144028_zahranicni_ipl]>
 
+
+ahoj
+
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself. - I don't want to. This place is useless. 
