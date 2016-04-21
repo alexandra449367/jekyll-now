@@ -11,8 +11,17 @@ Takže hurá čítať náš web, kde uvedieme príbeh expedície, ako to všetko
 
 [idnes]: <http://zpravy.idnes.cz/v-rusku-zemrel-muz-jenz-jediny-prezil-tajemnou-vypravu-na-horu-mrtvych-1ao-/zahranicni.aspx?c=A130430_144028_zahranicni_ipl]>
 
+Seznam webových zdrojů
 
-ahoj
+Seznam newebových zdrojů
+
+1) POPOFF Alexander, The Dyatlov Pass Incident, The History Press Ltd, 2013, 192s
+2) EICHAR, Donnie. Dead Mountain - The Untold True Story. I.. vyd. San Francisco, California : Chronicle Books LLC, 2013. 290 s. ISBN 978-1-4521-1274-9
+3) DEVILS PASS[DVD], Renny Harlin. USA / Velká Británie / Rusko, 2013
+4) McCLOSKEY Keith, Mountain Of The Dead, The History Press Ltd, 2013, 192s, ISBN: 9780752491486
+5) OSS Svetlana, Don't Go There: The Mystery of Dyatlov Pass, CreateSpace Independent Publishing Platform, 2015. 318s. ISBN 151775559X
+ 
+
 
 ### More Information
 
