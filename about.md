@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 # O projekte
-Tento projekt je určený pre všetkých, ktorí holdujú niečomu zvláštnemu a nezvyčajnému. Rozpráva o expedícii, ktorá je viac záhadou ako exepídicou. Výprava, pri ktorej prišlo o život 9 mladých ľudí, je dodnes nevysvetlená. Záujem vzbudzuje u fanušíkov turistiky, horolezectva, bádateľov ale aj médií, napr. [iDnes].
+Tento projekt je určený pre všetkých, ktorí holdujú niečomu zvláštnemu a nezvyčajnému. Rozpráva o expedícii, ktorá je viac záhadou ako exepídicou. Výprava, pri ktorej prišlo o život 9 mladých ľudí, je dodnes nevysvetlená. Záujem vzbudzuje u fanušíkov turistiky, horolezectva, bádateľov ale aj médií, napr.
 
 Takže hurá čítať náš web, kde uvedieme príbeh expedície, ako to všetko začalo a pokračovalo. Pozrieme sa na jej členov, či už študenta a vedúceho Dyatla, alebo na turistov a záhadného Alexandra.
 
-[idnes]: <http://zpravy.idnes.cz/v-rusku-zemrel-muz-jenz-jediny-prezil-tajemnou-vypravu-na-horu-mrtvych-1ao-/zahranicni.aspx?c=A130430_144028_zahranicni_ipl]>
+
 
 ### Obsah webu
 1. Úvod
