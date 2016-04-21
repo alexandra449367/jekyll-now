@@ -38,6 +38,8 @@ Seznam newebových zdrojů
 3. DEVILS PASS[DVD], Renny Harlin. USA / Velká Británie / Rusko, 2013
 4. McCLOSKEY Keith, Mountain Of The Dead, The History Press Ltd, 2013, 192s, ISBN: 9780752491486
 5. OSS Svetlana, Don't Go There: The Mystery of Dyatlov Pass, CreateSpace Independent Publishing Platform, 2015. 318s. ISBN 151775559X
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TmDsrFQwlEg" frameborder="0" allowfullscreen></iframe>
  
 
 
