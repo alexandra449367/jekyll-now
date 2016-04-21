@@ -40,7 +40,10 @@ Seznam newebových zdrojů
 5. OSS Svetlana, Don't Go There: The Mystery of Dyatlov Pass, CreateSpace Independent Publishing Platform, 2015. 318s. ISBN 151775559X
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TmDsrFQwlEg" frameborder="0" allowfullscreen></iframe>
- 
+
+<iframe frameborder="0" scrolling="no" style="border:0px" src="https://books.google.cz/books?id=yKc7AwAAQBAJ&lpg=PP1&dq=dyatlov%20pass&hl=sk&pg=PP1&output=embed" width="500" height="500"> </iframe>
+
+<iframe frameborder="0" src="https://qph.is.quoracdn.net/main-qimg-b87b5d728b15fc0f4ee15c5ef3056105?convert_to_webp=true" width="500" height="500"> </iframe>
 
 
 ### More Information
