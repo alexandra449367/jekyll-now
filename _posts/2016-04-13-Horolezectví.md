@@ -9,3 +9,16 @@
 <p>Příklad videa z portálu vimeo, na kterém můžeme vidět mladé lezce v Norsku.</p>
 </body>
 </html>
+
+Obsah webu
+
+1. Úvod
+2. Informácie o cieľoch výpravy
+3. členovia výpravy
+4. Prvé dni
+5. Záchranna akcia
+6. Prvé stopy
+7. Nájdené dôkazy
+8. Zhrnutie dôkazov
+9. Konšpiračné závery
+10. Vlastná konšpiračná teória
