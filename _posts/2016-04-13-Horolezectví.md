@@ -10,7 +10,7 @@
 </body>
 </html>
 
-Obsah webu
+### Obsah webu
 
 1. Úvod
 2. Informácie o cieľoch výpravy
@@ -23,6 +23,6 @@ Obsah webu
 9. Konšpiračné závery
 10. Vlastná konšpiračná teória
 
-Strategie zveřejňování obsahu
+### Strategie zveřejňování obsahu
 
 Při zveřejňování bychom se chtěli držet našeho seznamu s obsahem webu a postupným zveřejňováním bychom chtěli uživatele seznámit se všemi nám známými údaji Dyatlovy expedice, od informací o cíli výpravy, přes seznámení se členy výpravy až po jejich ztracení a následné pátrání po členech výpravy. Všichni uživatelé byly nalezení mrtví, ale nikdo neví proč. Existuje spoustu konspiračních teorií, se kterými chceme návštěvníky webu seznámit a řadu konspiračních teorií chceme obohatit o naše postřehy a názory.
